@@ -69,7 +69,3 @@ This project demonstrates how data analysis and visualization tools can transfor
 
 
 
-
-
-Aspiring Data Analyst | SQL | Power BI | Power Query
-
