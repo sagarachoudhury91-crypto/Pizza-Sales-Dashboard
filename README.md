@@ -64,7 +64,8 @@ This project demonstrates how data analysis and visualization tools can transfor
 
 ---
 8. Screenshots / Demos
-   Dash_board_1:
+   Dash_Board_1 : https://github.com/sagarachoudhury91-crypto/Pizza-Sales-Dashboard/blob/main/Sales_worstcase.png
+   Dash_Board_2 : https://github.com/sagarachoudhury91-crypto/Pizza-Sales-Dashboard/blob/main/Sales_Homeage.png
 
 
 
